@@ -15,11 +15,11 @@
 </details>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Deejs2/Deejs2/assets/71071352/a759bada-5646-4a5f-b458-272b360ef20b">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Deejs2/Deejs2/assets/71071352/a759bada-5646-4a5f-b458-272b360ef20b">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/Deejs2/Deejs2/assets/71071352/a759bada-5646-4a5f-b458-272b360ef20b">
 </picture>
-![programming](https://github.com/Deejs2/Deejs2/assets/71071352/a759bada-5646-4a5f-b458-272b360ef20b)
+<!-- [Image](https://github.com/Deejs2/Deejs2/assets/71071352/a759bada-5646-4a5f-b458-272b360ef20b) -->
 
 
 ---
