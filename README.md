@@ -23,7 +23,11 @@
 
 > [!NOTE]
 > I am also learning PHP framework --> Symfony
----
+
 > The greatest glory in living lies not in never falling, but in rising every time we fall. 
 
 — Nelson Mandela
+
+---
+
+[Self-Learning Tips](https://github.com/Deejs2/Deejs2/wiki/Self%E2%80%90learning)
