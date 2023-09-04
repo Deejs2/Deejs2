@@ -21,7 +21,8 @@
 </picture>
 <!-- [Image](https://github.com/Deejs2/Deejs2/assets/71071352/a759bada-5646-4a5f-b458-272b360ef20b) -->
 
-
+> [!NOTE]
+> I am also learning PHP framework --> Symfony
 ---
 > The greatest glory in living lies not in never falling, but in rising every time we fall. 
 
