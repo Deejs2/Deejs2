@@ -8,9 +8,9 @@
  <p align="center"><img alt="YOUR-ALT-TEXT" src="https://github.com/Deejs2/Deejs2/assets/71071352/a759bada-5646-4a5f-b458-272b360ef20b"></p>
 </picture>
 
-- 🔭 I’m currently working on [Content-Management-System](https://github.com/Deejs2/Content-Management-System)
+- 🔭 I’m have made a [Content-Management-System](https://github.com/Deejs2/Content-Management-System)
 
-- 🌱 I’m currently learning **Symfony, Java Swing**
+- 🌱 I’m currently learning **Symfony, Angular**, Spring Boot**
 
 - 📝 I regularly write articles on [https://github.com/Deejs2/Deejs2/wiki/Self%E2%80%90learning](https://github.com/Deejs2/Deejs2/wiki/Self%E2%80%90learning)
 
